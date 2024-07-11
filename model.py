@@ -62,7 +62,7 @@ def load_data(directory):
 
 
 # Example directory
-directory = "path_to_your_directory"
+directory = "training"
 
 # Load data
 X, y = load_data(directory)
